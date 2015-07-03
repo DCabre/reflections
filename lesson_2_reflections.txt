@@ -1,5 +1,15 @@
-what happens when you initialize a repository? Why do you need to do it?
+﻿what happens when you initialize a repository? Why do you need to do it?
 
 Cuando inicializas un repositorio, se genera una carpeta oculta .git, la cual 
 almacenara el istorial de los commit. Por este mismo motivo se necesita 
 generar un repositorio con el comando "git init". 
+
+How is the staging area different from the working directory and the repository? What
+value do you think it offers?
+
+El area de preparación (staging area) sirve para guardar los datos que se vayan modificando
+hasta que se realice el siguiente commit. Sin embargo el directorio de trabajo solo representa
+la ruta donde se almacena la información del repositorio.
+Añade un valor conceptual, es como un borrador que usas antes de pasar a limpio lo expuesto. 
+También un valor organizativo ya que es mas clara la lógica de gestión de archivos. 
+
