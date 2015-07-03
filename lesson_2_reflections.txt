@@ -1,0 +1,5 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+Cuando inicializas un repositorio, se genera una carpeta oculta .git, la cual 
+almacenara el istorial de los commit. Por este mismo motivo se necesita 
+generar un repositorio con el comando "git init". 

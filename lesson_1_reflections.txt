@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Porque me redujo el numero de lineas donde mirar y por tanto solo tenia que concentrarme
+en un entorno reducido de texto.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Llegado un punto en el que nos surga un problrma que hayamos solucionado previamente podremos revisar
+lo que ya teniamos escrito y como lo modificamos para cambiarlo. Ademas podria valer para que tus compañeros
+de equipo sepan que cambios se hicieron exactamente en el programa.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do
+in Git, vs having versions automatically saved, like Google docs does?
+
+La ventaja es clara, te permite crear cersiones de contenido controlado, sin embargo puede ocurrir que
+ya sea por falta de metodo o por un accidente, se te olvide o no puedas guardar y pierdas información.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+ while others, like Google Docs, treat each file separately?
+ 
+Porque pueden existir archivos que esten relacionados entre si de tal forma que si cambias algo en uno 
+de ellos es posible que se necesite un cambio en otro para cumplir la misma finalidad.
+Un ejemplo seria los capitulos de un libro y su indice.... (es un ejemplo un poco malo pero we)
+
+How can you use the commands git log and git diff to view the history of files?
+
+Se distingen tres comantos , git log, accedes al historial del repositorio;
+ git log --stat, lo mismo, solo que aporta información adicional sobre la cantidad de cambios realizados;
+ y git diff, que compara dos archivos o dos commits.
+ 
+ How might using version control make you more confident to make changes that could break something?
+ 
+ No pasa nada si cometes algun error, siempre puedes rastrearlo y corregirlo.
+ 
+ Now that you have your workspace set up, what do you want to try using Git for?
+ 
+ Para primero realizar un curso sobre programación en android y luego aplicarlo en la realizacion de una 
+ aplicacion en equipo con david y fer
