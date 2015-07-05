@@ -13,3 +13,7 @@ la ruta donde se almacena la información del repositorio.
 Añade un valor conceptual, es como un borrador que usas antes de pasar a limpio lo expuesto. 
 También un valor organizativo ya que es mas clara la lógica de gestión de archivos. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+En el caso de que se realizasen varios cambios en una sesión pueden reclasificarse a la hora
+de hacer los commits... es decir realizar los commits de forma selectiva y no a trocho mocho
